@@ -11,15 +11,18 @@ proyectos y mis intereses.
 
 ## Información personal
 
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Steven Lino I.
+* Ocupación: Estudiante
+* Lugar de residencia: Ecuador - Guayaquil
+* Sitio web: https://stevenlino.github.io/StevenLino/
 
 ## Proyectos
 
-* [Lista de tus proyectos]
+* https://github.com/StevenLino/Patrones-de-Dise-o.git
+* https://github.com/StevenLino/Simulacion-de-Errores-en-la-Transmision.git
 
 ## Intereses
 
-* [Lista de tus intereses]
+* Python
+* Java
+* JavaScript
