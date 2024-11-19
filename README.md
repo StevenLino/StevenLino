@@ -21,17 +21,26 @@ Mi nombre es **Steven**, un estudiante de Computación en Espol, siempre me ha i
 ## Proyectos
 A continuación una lista con algunos de los proyectos que he realizado durante mi formación:
 
-* https://github.com/StevenLino/Patrones-de-Dise-o.git
-* https://github.com/StevenLino/Simulacion-de-Errores-en-la-Transmision.git
+
+| Proyecto | Descripción | Tecnologías usadas | Enlace |
+| ------------- | ------------- | ------------- | ------------- |
+|Currícuum|Una página web con la información del currículum|Html-CSS|[Currículum](https://stevenlino.github.io/curriculum/)|
+|Adivina el animal|Un programa que adivina el animal que piensa el usuario en base a preguntas sencillas (como colaborador)|Java-CSS|[Adivina el animal](https://github.com/KevinJSalazar/Proyecto2-EstructurasDatos)|
+|Patrones de diseño|Un repositorio que contiene código para explicar y visualizar algunos patrones de diseño|Java|[Patrones de diseño](https://github.com/StevenLino/Patrones-de-Dise-o)|
 
 ## Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,replit,r,)](https://skillicons.dev)
+* Tecnologías dominadas
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,mysql,github,replit,r)](https://skillicons.dev)
+* Tecnologías en proceso de aprendizaje
+
+[![My Skills](https://skillicons.dev/icons?i=css,js,ts,react,firebase,matlab)](https://skillicons.dev)
 
 ## Intereses
 * Ciencia de datos
 * Desarrollo web
 * Desarrollo de viedojuegos
-* Otros: Juegos móviles, mangas
+* Otros: Juegos móviles, anime, mangas, chess
 
 ## Contacto
 * Gmail: [stevenlino2017@gmail.com](mailto:stevenlino2017@gmail.com)
