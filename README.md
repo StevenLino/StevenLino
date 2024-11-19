@@ -25,7 +25,7 @@ A continuación una lista con algunos de los proyectos que he realizado durante 
 * https://github.com/StevenLino/Simulacion-de-Errores-en-la-Transmision.git
 
 ## Tecnologías
-[My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,figma,github,replit,r,mysql)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,replit,r,)](https://skillicons.dev)
 
 ## Intereses
 * Ciencia de datos
@@ -36,6 +36,14 @@ A continuación una lista con algunos de los proyectos que he realizado durante 
 ## Contacto
 * Gmail: [stevenlino2017@gmail.com](mailto:stevenlino2017@gmail.com)
 * Outlook: [stemlino@espol.edu.ec](mailto:stemlino@espol.edu.ec)
-  [Linkedin](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/steven-mois%C3%A9s-lino-indacochea-61899023a/)
-  [Instagram](https://skillicons.dev/icons?i=instagram)(https://www.linkedin.com/in/steven-mois%C3%A9s-lino-indacochea-61899023a/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/steven-mois%C3%A9s-lino-indacochea-61899023a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/steven_lino_dx/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a> 
+</p>
+
 Gracias por leer :D
