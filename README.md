@@ -24,5 +24,5 @@ proyectos y mis intereses.
 * https://github.com/StevenLino/Simulacion-de-Errores-en-la-Transmision.git
 
 ## Tecnologías
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,github,replit,r)](https://skillicons.dev)
 ## Contacto
