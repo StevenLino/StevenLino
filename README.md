@@ -8,6 +8,8 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Tecnologías](#tecnologías)
+* [Contacto](#contacto)
 
 ## Información personal
 
@@ -21,8 +23,6 @@ proyectos y mis intereses.
 * https://github.com/StevenLino/Patrones-de-Dise-o.git
 * https://github.com/StevenLino/Simulacion-de-Errores-en-la-Transmision.git
 
-## Intereses
+## Tecnologías
 
-* Python
-* Java
-* JavaScript
+## Contacto
