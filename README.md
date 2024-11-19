@@ -25,7 +25,7 @@ A continuación una lista con algunos de los proyectos que he realizado durante 
 * https://github.com/StevenLino/Simulacion-de-Errores-en-la-Transmision.git
 
 ## Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,figma,github,replit,r,mysql)]
+[My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,figma,github,replit,r,mysql)]
 
 ## Intereses
 * Ciencia de datos
